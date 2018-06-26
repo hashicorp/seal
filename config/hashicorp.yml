@@ -1,0 +1,20 @@
+# Please insert new items alphabetically.
+hashicorp:
+  members:
+    - rjspiker
+    - mwickett
+    - lunchbag
+    - schonfeld
+    - jescalan
+
+  channel:
+    "#digital-team-dev"
+
+  exclude_titles:
+    - "WIP"
+    - "[WIP]"
+    - "DO NOT MERGE"
+    - "[DO NOT MERGE]"
+
+  include_repos:
+    - tbd
