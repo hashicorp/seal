@@ -1,11 +1,11 @@
 # Please insert new items alphabetically.
 hashicorp:
   members:
-    - rjspiker
-    - mwickett
-    - lunchbag
-    - schonfeld
     - jescalan
+    - lunchbag
+    - mwickett
+    - rjspiker
+    - schonfeld
 
   channel:
     "#digital-team-dev"
